@@ -1,12 +1,20 @@
 # kassenautomat.CAD
-Konstruktionspläne für den Kassenautomat
+Konstruktionspläne für unseren Kassenautomat. Erstellt mit Siemens NX 9.
+
+![](https://github.com/fau-fablab/kassenautomat.CAD/blob/master/Zeichnungen/rendering.png)
+
 
 ## Komponenten aus CAD:
-Automatengehäuse aus Holz (12mm Multiplex, Scharniere)
+
+## Automatengehäuse aus Holz
+12mm Multiplex +  Topfscharniere (Löcher dafür nicht eingezeichnet).
+
+Basis ist ein Holzkasten, der als Gehäuse für einen Kassenautomat dient. 
+Das Gehäuse wird abgeschlossen.
+Dementsprechend darf der Holzkasten nicht aufschraubbar sein, damit man nicht einfach an das Geld kommt. Stattdessen wird er passend verleimt angefertigt (dies ist nicht in den CAD-Zeichnungen enthalten, diese beschreiben nur das Endprodukt).
 
 
-
-Technische Zeichnungen:
+Technische Zeichnungen dazu:
 
 * Gehäuse Zusammenstellung
   * Gehäuse Holzkasten
@@ -46,6 +54,12 @@ Technische Zeichnungen:
 *  70mm	 30.530.303	Winkelstahl, blank, scharfkantig	30/30/3mm 
 *  140mm	30.302.002	Flachstahl,blank unleg.DIN1652		20/2mm
 *  Schlosschrauben M5x30 ca 20 Stück Hornbach 1,50€
+
+## Frästeile:
+
+in Zeichnungen/Fraesteile/alublech_2mm ist alles auf einmal zusammengestellt.
+
+TODO Münzfront wird gelasert statt gefräst
 
 ## Legende Farben im CAD
 
