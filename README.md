@@ -16,7 +16,7 @@ Dementsprechend darf der Holzkasten nicht aufschraubbar sein, damit man nicht ei
 
 Technische Zeichnungen dazu:
 
-* Gehäuse Zusammenstellung
+* Gehäuse Zusammenstellung -> Gehaeuse.prt, Zeichnungen/Gehaeuse_dwg1.prt
   * Gehäuse Holzkasten
   * Tür oben
   * Tür unten
@@ -30,10 +30,10 @@ Technische Zeichnungen dazu:
 ## Elektronische/Elektromechanische Komponenten:
 
 
-* NV11 Geldscheinleser
-* MEI CashFlow 7900 Münzwechsler
-* Money Controls Compact Hopper SBB (square bowl base)
-* 24V Netzteil TODO (2A ohne Hopper, 5A??? für Hopper+Münzwechsler)
+* NV11 Geldscheinleser ca 500€
+* MEI CashFlow 7900 Münzwechsler (ebay 150€, Austausch-Tubes für andere Münzbestückung ca 15€/Sorte bei MEI-Vertrieb)
+* Money Controls Compact Hopper SBB (square bowl base) ca 20€ ebay
+* 24V Netzteil 6,5A (2A peak Münzwechsler, 5A peak für Hopper, tritt nicht gleichzeitig auf)
 * PC-Netzteil
 * Mini-ITX Mainboard
 * Festplatte
@@ -73,10 +73,8 @@ TODO Münzfront wird gelasert statt gefräst
 
 * non-CAD-Fertigungszeichnungen aus Netdrive kopieren
 * Patrick: Hopper-Details und neuer Hopperdeckel
-* Nicht mehr eingebundene Teile löschen, z.B. alte Version des Münzeinwurfs
 * Zeichnungen als PDF erzeugen und erneuern
-* Netzteil statt Trafo einzeichnen, Befestigung Netzteil
-* nutzlose Münzausgabeklappe entfernen
+* Netzteil einzeichnen, Befestigung Netzteil
 
 
 ## Abhängigkeiten
