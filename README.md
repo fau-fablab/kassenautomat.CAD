@@ -72,10 +72,10 @@ TODO Münzfront wird gelasert statt gefräst
 ## TODO im CAD
 
 * non-CAD-Fertigungszeichnungen aus Netdrive kopieren
-* Patrick: Hopper-Details und neuer Hopperdeckel
+* Hopper detaillierter modellieren (zur Zeit sieht der Plastikdeckel im Modell schlecht aus, weil die Löcher nicht eingezeichnet sind und der Hopper etwas zu groß modelliert ist)
 * Zeichnungen als PDF erzeugen und erneuern
 * Netzteil einzeichnen, Befestigung Netzteil
-
+* Tür-Aufhalter federhalter.prt mit ins Modell einbauen
 
 ## Abhängigkeiten
 
